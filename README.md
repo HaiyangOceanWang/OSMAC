@@ -1,4 +1,3 @@
 # OSMAC
-测试
-尝试
-勇于尝试
+
+Old OSMAC library, will be re-code sooner

@@ -9,6 +9,7 @@ from scipy.optimize import minimize
 def logistic_func(beta, x):
     return 1 / (1 + np.exp(-np.dot(x,beta)))
 
+print('1')
 '''Functions for getting defferent Pi's'''
 def pis_mVc(x,y,beta):
     '''
